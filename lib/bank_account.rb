@@ -13,4 +13,8 @@ class BankAccount
    
  end 
  
+ def display_balance
+  self.balance 
+ end 
+ 
 end
